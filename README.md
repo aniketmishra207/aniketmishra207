@@ -9,13 +9,13 @@
 ## **About Me:**
 <h2 align = "center"> DSA • CP • App Developer • C/C++ </h2>
 
-
+<!--
 ## **Github Streak:**
 <p align = "center">
   <img src = "https://github-readme-streak-stats.herokuapp.com/?user=aniketmishra207&line_height=40&theme=default">
 </p>
 
----
+-->
 
 ## **Github Stats:**
 
